@@ -27,3 +27,26 @@ projeto-aguia/
 ├── .gitignore
 ├── README.md
 └── package.json (opcional - root)
+
+# 🦅 Projeto Águia
+
+Projeto full-stack com React frontend e Node.js backend com PostgreSQL.
+
+## 🚀 Tecnologias
+
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Node.js, Express.js, PostgreSQL
+- **Outras**: CORS, Dotenv, PG
+
+## 📋 Pré-requisitos
+
+- Node.js 14+
+- PostgreSQL 12+
+- npm ou yarn
+
+## 🛠️ Instalação e Configuração
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/MariaYasmimOliveira/projeto-aguia.git
+cd projeto-aguia
