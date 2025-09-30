@@ -48,5 +48,3 @@ Projeto full-stack com React frontend e Node.js backend com PostgreSQL.
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/MariaYasmimOliveira/projeto-aguia.git
-cd projeto-aguia
